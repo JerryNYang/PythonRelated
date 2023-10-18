@@ -1,7 +1,7 @@
 #!/bin/python3
 
 from Shoes import Shoes
-
+#run this program later ..10/19/23
 low = Shoes('And 1s', 30)
 medium = Shoes('Air Force 1s', 120)
 high = Shoes('Off Whites', 400)
