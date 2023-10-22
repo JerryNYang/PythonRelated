@@ -1,5 +1,5 @@
-# jerry inyang
-# logical Operators and COmparison OPs
+# jerry denis inyang
+# logical Operators and comparison OPs
 
 print("Welcome to the rollercoaster!")
 height = int(input("What is your height in cm? "))
