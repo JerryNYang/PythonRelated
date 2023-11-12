@@ -1,6 +1,6 @@
 #!/bin/python3
 
-# Creating a port scanner in Python 10.27.2023
+# Creating a port scanner in Python 10.27.2023 (9p)
 import sys
 import socket
 from datetime import datetime
