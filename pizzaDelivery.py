@@ -1,4 +1,4 @@
-# Jerry Inyang
+# Jerry D. Inyang
 #pizza delivery mini app
 print("Welcome to Python Pizza Deliveries!")
 size = input("What size pizza do you want? S, M, or L ")
