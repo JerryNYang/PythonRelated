@@ -1,5 +1,5 @@
 class Person:
-  'Person base class...'
+  'Person base class'
   want_to_hack = True
   
   def __init__(self,name,age):
