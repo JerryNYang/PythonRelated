@@ -1,4 +1,4 @@
-# Jeremiah Inyang
+# Jeremiah Denis Inyang
 #python
 # 9.26.23
 
