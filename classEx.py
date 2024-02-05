@@ -12,7 +12,7 @@ class Person:
   def printAge(self):
     print("My age is {}".format(self.age))
 
-bob = Person("browne",66)
+bob = Person("browne",86)
 alice = Person("alice", 74)
 mallory = Person("Mallory", 55)
 
