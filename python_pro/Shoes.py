@@ -6,7 +6,7 @@ class Shoes:
         
         def budget_check(self, budget):
                 if not isinstance(budget, (int, float)):
-                        print('Invalid entry. Please enter a number.')
+                        print('Invalid entry. Please enter a number:')
                         exit()                
                     
         def change(self, budget):
