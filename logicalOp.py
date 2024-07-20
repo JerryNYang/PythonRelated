@@ -1,7 +1,7 @@
 # jerry denis inyang
 # logical Operators and comparison Operators
 
-print("Welcome to the rollercoaster!")
+print("Welcome to the rollercoaster!!  ")
 height = int(input("What is your height in cm? "))
 bill = 0
 
